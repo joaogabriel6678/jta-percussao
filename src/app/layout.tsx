@@ -32,6 +32,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://jtapercussao.com.br",
   },
+  verification: {
+    google: "qS8L2CJsOAxOPQezQXvKKDgdQkWdeW9yboDBmKnomLI",
+  },
 };
 
 export default function RootLayout({
