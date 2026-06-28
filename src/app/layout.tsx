@@ -207,11 +207,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 
         {/*
           ──────────── GOOGLE ANALYTICS 4 ────────────
-          Substitua G-XXXXXXXXXX pelo seu ID após criar conta em analytics.google.com.
+          Substitua G-TPDMLSTQMN pelo seu ID após criar conta em analytics.google.com.
           Os dois <Script> abaixo já estão prontos — só trocar o ID nos 2 lugares.
         */}
         <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"
+          src="https://www.googletagmanager.com/gtag/js?id=G-TPDMLSTQMN"
           strategy="afterInteractive"
         />
         <Script id="ga4-init" strategy="afterInteractive">
@@ -219,7 +219,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-XXXXXXXXXX');
+            gtag('config', 'G-TPDMLSTQMN');
           `}
         </Script>
       </body>
