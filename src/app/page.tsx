@@ -11,7 +11,7 @@ export default function Page() {
   return (
     <>
       <Navbar />
-      <main>
+      <main id="main-content">
         <Hero />
         <About />
         <Products />
