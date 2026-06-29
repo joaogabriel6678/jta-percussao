@@ -62,6 +62,20 @@ export const ABOUT_FEATURES: Feature[] = [
 
 export const PRODUCTS: Product[] = [
   {
+    name: "Trio Rum (110cm) Rumpi (100 cm) e Lê ( 90 cm) Guariúba",
+    desc: "Conjunto completo com verniz Tom Guariúba — Rum (grave), Rumpi (médio) e Lê (agudo). Ideal para celebrações religiosas, grupos musicais e apresentações culturais.",
+    badge: "Conjunto Completo",
+    featured: true,
+    img: "/images/instrumentos/trio-guariuba.jpg",
+  },
+  {
+    name: "Trio Rum (110cm) Rumpi (100 cm) e Lê ( 90 cm) Natural",
+    desc: "O clássico trio com acabamento natural. Madeira à vista com beleza única, produzido para grupos que valorizam estética e tradição.",
+    badge: "Acabamento Natural",
+    featured: true,
+    img: "/images/instrumentos/trio-natural.jpg",
+  },
+  {
     name: "Atabaque Macaquinho 50cm Claro",
     desc: "Compacto, versátil e perfeito para iniciantes e uso em espaços menores. Leve e sonoramente eficiente. O primeiro produto da JTA.",
     badge: "Compacto",
@@ -91,20 +105,6 @@ export const PRODUCTS: Product[] = [
     badge: "80cm",
     featured: true,
     img: "/images/instrumentos/atabaque-80cm-guariuba.jpg",
-  },
-  {
-    name: "Trio Rum, Rumpi e Lê Tom Guariúba",
-    desc: "Conjunto completo com verniz Tom Guariúba — Rum (grave), Rumpi (médio) e Lê (agudo). Ideal para terreiros, grupos de candomblé e apresentações culturais.",
-    badge: "Conjunto Completo",
-    featured: true,
-    img: "/images/instrumentos/trio-guariuba.jpg",
-  },
-  {
-    name: "Trio Rum, Rumpi e Lê Natural",
-    desc: "O clássico trio com acabamento natural. Madeira à vista com beleza única, produzido para grupos que valorizam estética e tradição.",
-    badge: "Acabamento Natural",
-    featured: true,
-    img: "/images/instrumentos/trio-natural.jpg",
   },
 ];
 
