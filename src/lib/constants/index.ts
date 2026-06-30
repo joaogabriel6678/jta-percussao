@@ -76,6 +76,25 @@ export const PRODUCTS: Product[] = [
     img: "/images/instrumentos/trio-natural.jpg",
   },
   {
+    name: "Atabaque 80cm Tom Guariúba",
+    desc: "Atabaque de grande porte com verniz Tom Guariúba. Projeção sonora poderosa, ideal para terreiros, palcos e apresentações de grande público.",
+    badge: "80cm",
+    featured: true,
+    img: "/images/instrumentos/atabaque-80cm-guariuba.jpg",
+  },
+  {
+    name: "Atabaque 60cm Natural",
+    desc: "Versão 60cm com acabamento natural. Madeira à vista, beleza única e som tradicional para grupos que valorizam estética e tradição.",
+    badge: "Acabamento Natural",
+    img: "/images/instrumentos/atabaque-60cm-natural.jpg",
+  },
+  {
+    name: "Atabaque 60cm Tom Guariúba",
+    desc: "Atabaque de médio porte com verniz Tom Guariúba. Equilíbrio perfeito entre tamanho e projeção sonora, ideal para uso em grupos culturais.",
+    badge: "60cm",
+    img: "/images/instrumentos/atabaque-60cm-guariuba.jpg",
+  },
+  {
     name: "Atabaque Macaquinho 50cm Claro",
     desc: "Compacto, versátil e perfeito para iniciantes e uso em espaços menores. Leve e sonoramente eficiente. O primeiro produto da JTA.",
     badge: "Compacto",
@@ -86,25 +105,6 @@ export const PRODUCTS: Product[] = [
     desc: "Versão do Macaquinho com verniz Tom Guariúba — maior durabilidade e sonoridade aprimorada. Ideal para grupos e apresentações ao ar livre.",
     badge: "Tom Guariúba",
     img: "/images/instrumentos/macaquinho-50cm-guariuba.jpg",
-  },
-  {
-    name: "Atabaque 60cm Tom Guariúba",
-    desc: "Atabaque de médio porte com verniz Tom Guariúba. Equilíbrio perfeito entre tamanho e projeção sonora, ideal para uso em grupos culturais.",
-    badge: "60cm",
-    img: "/images/instrumentos/atabaque-60cm-guariuba.jpg",
-  },
-  {
-    name: "Atabaque 60cm Natural",
-    desc: "Versão 60cm com acabamento natural. Madeira à vista, beleza única e som tradicional para grupos que valorizam estética e tradição.",
-    badge: "Acabamento Natural",
-    img: "/images/instrumentos/atabaque-60cm-natural.jpg",
-  },
-  {
-    name: "Atabaque 80cm Tom Guariúba",
-    desc: "Atabaque de grande porte com verniz Tom Guariúba. Projeção sonora poderosa, ideal para terreiros, palcos e apresentações de grande público.",
-    badge: "80cm",
-    featured: true,
-    img: "/images/instrumentos/atabaque-80cm-guariuba.jpg",
   },
 ];
 
