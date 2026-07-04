@@ -33,7 +33,7 @@ export const NAV_ITEMS: NavItem[] = [
 // ─── About ────────────────────────────────────────────────────────────────────
 
 export const ABOUT_TEXT =
-  "Localizada em Angatuba–SP, a JTA Percussão iniciou suas atividades em 2015 com a fabricação de atabaques. Com raízes na melhoria contínua e inspirada nos princípios do Lean Manufacturing, evoluiu para oferecer uma linha completa de instrumentos de percussão afro-brasileira — do Macaquinho 50cm ao Atabaque 110cm — atendendo músicos, grupos de capoeira, candomblé e distribuidoras em todo o Brasil.";
+  "Localizada em Angatuba–SP, a JTA Percussão iniciou suas atividades em 2015 com a fabricação de atabaques. Com raízes na melhoria contínua e inspirada nos princípios do Lean Manufacturing, evoluiu para oferecer uma linha completa de instrumentos de percussão afro-brasileira.";
 
 export const ABOUT_FEATURES: Feature[] = [
   {
